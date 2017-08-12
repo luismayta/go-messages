@@ -2,6 +2,7 @@
 All notable changes to this project will be documented in this file.
 This file uses change log convention from [Keep a CHANGELOG](http://keepachangelog.com).
 
+## [Unreleased]
 
 [unreleased]: https://github.com/luismayta/go-messages/compare/0.0.0...HEAD
 [0.0.0]: https://github.com/luismayta/go-messages/compare/0.0.0...0.0.0
