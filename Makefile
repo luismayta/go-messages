@@ -7,7 +7,7 @@ PROYECT_NAME = go-messages
 # Configuration.
 SHELL = /bin/bash
 ROOT_DIR = $(shell pwd)
-MESSAGE="\{^_^}/"
+MESSAGE="༼ つ ◕_◕ ༽つ"
 SCRIPT_DIR = $(ROOT_DIR)/script
 
 # Bin scripts

@@ -15,4 +15,4 @@ export SOURCE_DIR="${ROOT_DIR}/"
 export REQUIREMENTS_DIR="${ROOT_DIR}/requirements/"
 export FILE_README="${ROOT_DIR}/README.rst"
 
-export message="\{^_^}/"
+export MESSAGE="༼ つ ◕_◕ ༽つ"
