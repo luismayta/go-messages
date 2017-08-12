@@ -17,7 +17,7 @@ indent_size = 4
 [*.{less,css}]
 indent_style = tab
 
-[Vagrantfile]
+[Makefile,Vagrantfile]
 indent_style = tab
 
 [Makefile]
