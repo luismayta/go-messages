@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 
 export PROJECT_NAME=go-messages
+export PROJECT_NAME_DEV="${PROJECT_NAME}"_DEV
+export PROJECT_NAME_STAGE="${PROJECT_NAME}"_STAGE
+export PROJECT_NAME_TEST="${PROJECT_NAME}"_TEST
+
 export PYTHON_VERSION=3.6.1
 export PYENV_NAME="${PROJECT_NAME}"
 
