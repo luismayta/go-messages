@@ -14,19 +14,14 @@ indent_size = 4
 
 # Tabs
 
-[*.{go,less,css}]
+[*.{less,css}]
 indent_style = tab
 
-[Vagrantfile]
+[Makefile,Vagrantfile]
 indent_style = tab
 
 [Makefile]
 indent_style = tab
-
-# indent_size
-
-[*.{go}]
-indent_size = 4
 
 [README.md]
 max_line_length = 80
