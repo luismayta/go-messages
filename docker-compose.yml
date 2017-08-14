@@ -1,0 +1,20 @@
+# go-messages: Docker Compose
+# https://docs.docker.com/compose/
+#
+# Usage: docker-compose up
+version: '3'
+services:
+
+  app:
+    hostname: app
+    ports:
+      - "80:5000"
+    restart: always
+    image: labpositiva/golang:1.8
+    build:
+      context: .
+      dockerfile: docker/app/Dockerfile
+    volumes:
+      - .:/go/src/go-messages
+    env_file:
+      - .env
