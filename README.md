@@ -22,7 +22,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Luis Mayta][link-author]
 - [All Contributors][link-contributors]
 
-<!-- Other -->
-
 [link-author]: https://github.com/luismayta
 [link-contributors]: AUTHORS
