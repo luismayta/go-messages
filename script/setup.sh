@@ -5,3 +5,4 @@
 [ -r "script/bootstrap.sh" ] && source "script/bootstrap.sh"
 
 pip install -r "${REQUIREMENTS_DIR}/"setup.txt
+pre-commit install

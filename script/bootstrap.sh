@@ -20,3 +20,4 @@ export REQUIREMENTS_DIR="${ROOT_DIR}/requirements/"
 export FILE_README="${ROOT_DIR}/README.rst"
 
 export MESSAGE="༼ つ ◕_◕ ༽つ"
+export MESSAGE_HAPPY="${MESSAGE} Happy Coding"
